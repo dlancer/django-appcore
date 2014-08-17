@@ -4,3 +4,7 @@
 .idea
 .pycharmrc
 .DS_Store
+*.egg-info
+__pycache__/*
+dist/*
+
