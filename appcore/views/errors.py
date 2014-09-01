@@ -5,7 +5,7 @@ from django.http import HttpResponseNotFound, HttpResponseServerError, HttpRespo
 
 
 class Handler404(TemplateView):
-    template_name = "404.html"
+    template_name = '404.html'
 
     @classmethod
     def as_error_view(cls):
@@ -22,7 +22,7 @@ class Handler404(TemplateView):
 
 
 class Handler500(TemplateView):
-    template_name = "500.html"
+    template_name = '500.html'
 
     @classmethod
     def as_error_view(cls):
