@@ -31,6 +31,7 @@ Requirements
 ::
 
     django >= 1.5
+    django-appconf>=0.6
 
 Installation
 ============
