@@ -59,4 +59,4 @@ You can install the latest stable package running::
 Usage
 =====
 
-You may find detailed documentation is in the "docs" directory.
+You may find detailed documentation in the "docs" directory.
