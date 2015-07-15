@@ -8,19 +8,19 @@ django-appcore
     :target: https://travis-ci.org/dlancer/django-appcore/
     :alt: Build status
 
-.. image:: https://pypip.in/version/django-appcore/badge.svg
+.. image:: https://img.shields.io/pypi/v/django-appcore.svg
     :target: https://pypi.python.org/pypi/django-appcore/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/download/django-appcore/badge.svg
+.. image:: https://img.shields.io/pypi/dm/django-appcore.svg
     :target: https://pypi.python.org/pypi/django-appcore/
     :alt: Number of PyPI downloads
 
-.. image:: https://pypip.in/format/django-appcore/badge.svg
+.. image:: https://img.shields.io/pypi/format/django-appcore.svg
     :target: https://pypi.python.org/pypi/django-appcore/
     :alt: Download format
 
-.. image:: https://pypip.in/license/django-appcore/badge.svg
+.. image:: https://img.shields.io/pypi/l/django-appcore.svg
     :target: https://pypi.python.org/pypi/django-appcore/
     :alt: License
 
