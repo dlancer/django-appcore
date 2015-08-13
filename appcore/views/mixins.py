@@ -35,5 +35,5 @@ class FormMessageMixin(object):
     def form_invalid(self, form):
         message = self.form_invalid_message if hasattr(self, 'form_invalid_message') else None
         if message is not None:
-            messages.success(self.request, message)
+            messages.error(self.request, message)
         return super(FormMessageMixin, self).form_invalid(form)
