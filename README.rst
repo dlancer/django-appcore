@@ -1,7 +1,7 @@
 django-appcore
 ==============
 
-``django-appcore`` is a reusable useful tools for Django 1.5+ application programming.
+``django-appcore`` is a reusable useful tools for Django 1.7+ application programming.
 
 
 .. image:: https://travis-ci.org/dlancer/django-appcore.svg?branch=master
@@ -30,7 +30,7 @@ Requirements
 
 ::
 
-    django >= 1.5
+    django >= 1.7
     django-appconf>=0.6
 
 Installation
